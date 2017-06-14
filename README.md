@@ -7,9 +7,6 @@ You shouldn't spend longer than 1-2 hours on this exercise.  You won't be timed 
 ## The Problem
 The goal of this exercise is to build a reliable heartbeat detector given electrocardiogram (ECG) data.
 
-## The Data
-For this exercise we'll be using ECG data from the [MIT-BIH Arrhythmia Database](https://www.physionet.org/physiobank/database/mitdb/).  There's a handy tool [here](https://physionet.org/cgi-bin/atm/ATM) for converting this data to more usable formats.  The first data file, `100m.mat`, is already in the same directory as this notebook so you won't need to download anything unless you wish to collect more data.  If you do, use the [ATM](https://physionet.org/cgi-bin/atm/ATM) to export `.mat` files.  The annotations are obtained by selecting `Show annotations as text`.  Be sure to move the `Aux` column if you import more annotations.
-
 ## Getting Started
 You can either use git to clone this repository or you can use the button above to download it as a zip file.
 
